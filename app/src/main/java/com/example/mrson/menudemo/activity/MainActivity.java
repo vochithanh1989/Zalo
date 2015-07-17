@@ -40,7 +40,7 @@ public class MainActivity extends ActionBarActivity implements FragmentDrawer.Fr
     boolean click=false;
     private ImageView pre;
     private LinearLayout menu;
-    int a;
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
